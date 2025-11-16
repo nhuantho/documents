@@ -1,1 +1,1 @@
-https://www.oreilly.com/library/view/trino-the-definitive/9781098137229/
+* https://www.oreilly.com/library/view/trino-the-definitive/9781098137229/

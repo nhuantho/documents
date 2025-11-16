@@ -1,1 +1,1 @@
-Idea build iceberg maintenace: https://github.com/netflix/simianarmy/wiki/janitor-home
+* Idea build iceberg maintenace: https://github.com/netflix/simianarmy/wiki/janitor-home
